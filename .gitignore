@@ -1,0 +1,19 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+
+# Terraform variables
+*.tfvars
+*.tfvars.json
+
+# Windows metadata
+*:Zone.Identifier
+
+# Backups
+*.sql
+
+# Test files
+test_file.txt
+testfile.txt
